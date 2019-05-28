@@ -1,7 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="98e202c2-20df-4348-a7d8-c052f0c1ea5a" name="Default Changelist" comment="" />
+    <list default="true" id="98e202c2-20df-4348-a7d8-c052f0c1ea5a" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/src/main/java/Lesson.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Person.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Learners.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Learners.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/LearnersTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/LearnersTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/Learners.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/Learners.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/LearnersTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/LearnersTest.class" afterDir="false" />
+    </list>
     <ignored path="$PROJECT_DIR$/target/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -10,24 +19,18 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="FileEditorManager">
-    <splitter split-orientation="horizontal" split-proportion="0.46754098">
+    <splitter split-orientation="horizontal" split-proportion="0.49046153">
       <split-first>
         <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-          <file pinned="false" current-in-tab="true">
+          <file pinned="false" current-in-tab="false">
             <entry file="file://$PROJECT_DIR$/src/main/java/Learners.java">
               <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="150">
-                  <caret line="10" column="29" lean-forward="true" selection-start-line="10" selection-start-column="29" selection-end-line="10" selection-end-column="29" />
+                <state relative-caret-position="180">
+                  <caret line="12" column="56" selection-start-line="12" selection-start-column="52" selection-end-line="12" selection-end-column="56" />
                   <folding>
                     <element signature="imports" expanded="true" />
-                    <element signature="e#304#305#0" expanded="true" />
-                    <element signature="e#332#333#0" expanded="true" />
-                    <element signature="e#364#365#0" expanded="true" />
-                    <element signature="e#392#393#0" expanded="true" />
-                    <element signature="e#423#424#0" expanded="true" />
-                    <element signature="e#451#452#0" expanded="true" />
-                    <element signature="e#966#967#0" expanded="true" />
-                    <element signature="e#1004#1005#0" expanded="true" />
+                    <element signature="e#514#515#0" expanded="true" />
+                    <element signature="e#545#546#0" expanded="true" />
                   </folding>
                 </state>
               </provider>
@@ -42,15 +45,28 @@
               </provider>
             </entry>
           </file>
+          <file pinned="false" current-in-tab="true">
+            <entry file="file://$PROJECT_DIR$/src/main/java/Lesson.java">
+              <provider selected="true" editor-type-id="text-editor">
+                <state relative-caret-position="300">
+                  <caret line="20" column="68" selection-start-line="20" selection-start-column="68" selection-end-line="20" selection-end-column="68" />
+                  <folding>
+                    <element signature="imports" expanded="true" />
+                    <element signature="e#389#390#0" expanded="true" />
+                  </folding>
+                </state>
+              </provider>
+            </entry>
+          </file>
         </leaf>
       </split-first>
       <split-second>
-        <leaf>
+        <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
           <file pinned="false" current-in-tab="true">
             <entry file="file://$PROJECT_DIR$/src/test/java/LearnersTest.java">
               <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="475">
-                  <caret line="43" lean-forward="true" selection-start-line="43" selection-end-line="43" />
+                <state relative-caret-position="430">
+                  <caret line="39" column="53" selection-start-line="39" selection-start-column="53" selection-end-line="39" selection-end-column="53" />
                   <folding>
                     <element signature="imports" expanded="true" />
                   </folding>
@@ -66,10 +82,13 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="JUnit5 Test Class" />
-        <option value="Class" />
         <option value="Enum" />
+        <option value="Class" />
       </list>
     </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
@@ -78,6 +97,8 @@
         <option value="$PROJECT_DIR$/src/test/java/LearnersTest.groovy" />
         <option value="$PROJECT_DIR$/src/main/java/Subjects.java" />
         <option value="$PROJECT_DIR$/src/main/java/Learners.java" />
+        <option value="$PROJECT_DIR$/src/main/java/Person.java" />
+        <option value="$PROJECT_DIR$/src/main/java/Lesson.java" />
         <option value="$PROJECT_DIR$/src/test/java/LearnersTest.java" />
       </list>
     </option>
@@ -90,17 +111,17 @@
     </option>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="130" />
-    <option name="y" value="481" />
-    <option name="width" value="1272" />
-    <option name="height" value="734" />
+    <option name="y" value="23" />
+    <option name="width" value="1280" />
+    <option name="height" value="714" />
   </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
     <navigator proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
+      <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -143,11 +164,11 @@
           <select />
         </subPane>
       </pane>
-      <pane id="PackagesPane" />
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1558964985380" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1559054215669" />
     <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary" value="JUnit5" />
     <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.Groovy JUnit" value="groovy.util.GroovyTestCase" />
     <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit5" value="" />
@@ -159,6 +180,9 @@
     <key name="CreateTestDialog.Recents.Supers">
       <recent name="" />
       <recent name="groovy.util.GroovyTestCase" />
+    </key>
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -173,7 +197,14 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="JUnit.LearnersTest">
+  <component name="RunManager" selected="JUnit.LearnersTest.addLearners">
+    <configuration name="Learner" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Learner" />
+      <module name="teachers-learners-and-lessons" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="LearnersTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="teachers-learners-and-lessons" />
       <option name="PACKAGE_NAME" value="" />
@@ -183,31 +214,21 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="LearnersTest.acceptLearner" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="teachers-learners-and-lessons" />
-      <option name="PACKAGE_NAME" value="" />
-      <option name="MAIN_CLASS_NAME" value="LearnersTest" />
-      <option name="METHOD_NAME" value="acceptLearner" />
-      <option name="TEST_OBJECT" value="method" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="LearnersTest.addLearner" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="teachers-learners-and-lessons" />
-      <option name="PACKAGE_NAME" value="" />
-      <option name="MAIN_CLASS_NAME" value="LearnersTest" />
-      <option name="METHOD_NAME" value="addLearner" />
-      <option name="TEST_OBJECT" value="method" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <configuration name="LearnersTest.addLearners" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="teachers-learners-and-lessons" />
       <option name="PACKAGE_NAME" value="" />
       <option name="MAIN_CLASS_NAME" value="LearnersTest" />
       <option name="METHOD_NAME" value="addLearners" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="LearnersTest.addToLesson" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="teachers-learners-and-lessons" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="LearnersTest" />
+      <option name="METHOD_NAME" value="addToLesson" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -225,11 +246,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="JUnit.LearnersTest" />
         <item itemvalue="JUnit.LearnersTest.addLearners" />
+        <item itemvalue="JUnit.LearnersTest.addToLesson" />
+        <item itemvalue="Application.Learner" />
+        <item itemvalue="JUnit.LearnersTest" />
         <item itemvalue="JUnit.LearnersTest.numberOfLearners" />
-        <item itemvalue="JUnit.LearnersTest.addLearner" />
-        <item itemvalue="JUnit.LearnersTest.acceptLearner" />
       </list>
     </recent_temporary>
   </component>
@@ -247,42 +268,42 @@
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="LearnersTest_addLearners - 2019.05.27 at 13h 51m 04s.xml">
+    <history-entry file="LearnersTest_addLearners - 2019.05.28 at 10h 47m 04s.xml">
       <configuration name="LearnersTest.addLearners" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="LearnersTest_addLearners - 2019.05.27 at 14h 33m 20s.xml">
+    <history-entry file="LearnersTest_addLearners - 2019.05.28 at 10h 47m 24s.xml">
       <configuration name="LearnersTest.addLearners" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="LearnersTest_addLearners - 2019.05.27 at 14h 33m 28s.xml">
+    <history-entry file="LearnersTest_addLearners - 2019.05.28 at 10h 47m 49s.xml">
       <configuration name="LearnersTest.addLearners" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="LearnersTest_addLearners - 2019.05.27 at 14h 34m 32s.xml">
+    <history-entry file="LearnersTest_addLearners - 2019.05.28 at 10h 48m 12s.xml">
       <configuration name="LearnersTest.addLearners" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="LearnersTest_numberOfLearners - 2019.05.27 at 14h 36m 46s.xml">
-      <configuration name="LearnersTest.numberOfLearners" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="LearnersTest_numberOfLearners - 2019.05.27 at 14h 37m 33s.xml">
-      <configuration name="LearnersTest.numberOfLearners" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="LearnersTest_numberOfLearners - 2019.05.27 at 14h 38m 15s.xml">
-      <configuration name="LearnersTest.numberOfLearners" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="LearnersTest_addLearners - 2019.05.27 at 15h 25m 04s.xml">
+    <history-entry file="LearnersTest_addLearners - 2019.05.28 at 10h 56m 11s.xml">
       <configuration name="LearnersTest.addLearners" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="LearnersTest_addLearners - 2019.05.27 at 15h 25m 07s.xml">
+    <history-entry file="LearnersTest_addLearners - 2019.05.28 at 10h 56m 36s.xml">
       <configuration name="LearnersTest.addLearners" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="LearnersTest - 2019.05.27 at 15h 26m 48s.xml">
-      <configuration name="LearnersTest" configurationId="JUnit" />
+    <history-entry file="LearnersTest_addLearners - 2019.05.28 at 10h 57m 10s.xml">
+      <configuration name="LearnersTest.addLearners" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="LearnersTest_addLearners - 2019.05.28 at 10h 58m 54s.xml">
+      <configuration name="LearnersTest.addLearners" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="LearnersTest_addLearners - 2019.05.28 at 11h 07m 19s.xml">
+      <configuration name="LearnersTest.addLearners" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="LearnersTest_addLearners - 2019.05.28 at 14h 02m 53s.xml">
+      <configuration name="LearnersTest.addLearners" configurationId="JUnit" />
     </history-entry>
   </component>
   <component name="ToolWindowManager">
     <frame x="-3" y="25" width="1926" height="1058" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.16986156" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.13471779" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Designer" order="2" />
       <window_info id="Image Layers" order="3" />
@@ -292,7 +313,6 @@
       <window_info id="Favorites" order="7" side_tool="true" />
       <window_info id="Capture Tool" order="8" />
       <window_info id="Job Explorer" order="9" />
-      <window_info anchor="bottom" id="Messages" weight="0.32941177" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
       <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.32941177" />
@@ -305,6 +325,7 @@
       <window_info anchor="bottom" id="Event Log" order="9" side_tool="true" />
       <window_info anchor="bottom" id="Console" order="10" />
       <window_info anchor="bottom" id="Version Control" order="11" />
+      <window_info anchor="bottom" id="Messages" order="12" weight="0.32941177" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
@@ -316,13 +337,7 @@
     </layout>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/test/java/LearnersTest.groovy">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="15">
-          <caret line="1" selection-start-line="1" selection-end-line="1" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/LearnersTest.groovy" />
     <entry file="file://$PROJECT_DIR$/src/main/java/Subjects.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="150">
@@ -330,30 +345,50 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/LearnersTest.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/Person.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="475">
-          <caret line="43" lean-forward="true" selection-start-line="43" selection-end-line="43" />
+        <state relative-caret-position="165">
+          <caret line="11" lean-forward="true" selection-start-line="11" selection-end-line="11" />
           <folding>
-            <element signature="imports" expanded="true" />
+            <element signature="e#283#284#0" expanded="true" />
+            <element signature="e#311#312#0" expanded="true" />
+            <element signature="e#343#344#0" expanded="true" />
+            <element signature="e#371#372#0" expanded="true" />
+            <element signature="e#403#404#0" expanded="true" />
+            <element signature="e#431#432#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/Learners.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="150">
-          <caret line="10" column="29" lean-forward="true" selection-start-line="10" selection-start-column="29" selection-end-line="10" selection-end-column="29" />
+        <state relative-caret-position="180">
+          <caret line="12" column="56" selection-start-line="12" selection-start-column="52" selection-end-line="12" selection-end-column="56" />
           <folding>
             <element signature="imports" expanded="true" />
-            <element signature="e#304#305#0" expanded="true" />
-            <element signature="e#332#333#0" expanded="true" />
-            <element signature="e#364#365#0" expanded="true" />
-            <element signature="e#392#393#0" expanded="true" />
-            <element signature="e#423#424#0" expanded="true" />
-            <element signature="e#451#452#0" expanded="true" />
-            <element signature="e#966#967#0" expanded="true" />
-            <element signature="e#1004#1005#0" expanded="true" />
+            <element signature="e#514#515#0" expanded="true" />
+            <element signature="e#545#546#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/Lesson.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="300">
+          <caret line="20" column="68" selection-start-line="20" selection-start-column="68" selection-end-line="20" selection-end-column="68" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#389#390#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/LearnersTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="430">
+          <caret line="39" column="53" selection-start-line="39" selection-start-column="53" selection-end-line="39" selection-end-column="53" />
+          <folding>
+            <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>
